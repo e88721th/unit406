@@ -1,0 +1,1578 @@
+[
+  {
+    "id": 1,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "下列哪一個成語的意思是「心思同時放在二件事情上，指分心不專注」？",
+    "options": ["九牛二虎之力", "一心二用", "三人成虎", "四面楚歌"],
+    "answer": 1,
+    "explanation": "一心二用：心思同時放在二件事情上，指分心不專注。"
+  },
+  {
+    "id": 2,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "下列哪一個成語的意思是「比喻極大的力量」？",
+    "options": ["三人成虎", "九牛二虎之力", "一言九鼎", "六神無主"],
+    "answer": 1,
+    "explanation": "九牛二虎之力：比喻極大的力量。"
+  },
+  {
+    "id": 3,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "下列哪一個成語的意思是「比喻謠言惑眾」？",
+    "options": ["四面楚歌", "三人成虎", "七手八腳", "學富五車"],
+    "answer": 1,
+    "explanation": "三人成虎：比喻謠言惑眾。"
+  },
+  {
+    "id": 4,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "下列哪一個成語的意思是「所處環境艱難困頓，危急無援」？",
+    "options": ["四面楚歌", "一言九鼎", "十全十美", "八仙過海"],
+    "answer": 0,
+    "explanation": "四面楚歌：比喻所處環境艱難困頓，危急無援。"
+  },
+  {
+    "id": 5,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "下列哪一個成語的意思是「形容人書讀很多，學問淵博」？",
+    "options": ["六神無主", "學富五車", "一心二用", "七手八腳"],
+    "answer": 1,
+    "explanation": "學富五車：形容人書讀很多，學問淵博。"
+  },
+  {
+    "id": 6,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "下列哪一個成語的意思是「形容心神慌亂、張皇失措」？",
+    "options": ["六神無主", "九牛二虎之力", "一心二用", "三人成虎"],
+    "answer": 0,
+    "explanation": "六神無主：形容心神慌亂、張皇失措，拿不定主意。"
+  },
+  {
+    "id": 7,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "下列哪一個成語的意思是「形容人多動作紛亂又沒條理」？",
+    "options": ["一言九鼎", "七手八腳", "四面楚歌", "學富五車"],
+    "answer": 1,
+    "explanation": "七手八腳：形容人多動作紛亂又沒條理。"
+  },
+  {
+    "id": 8,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "下列哪一個成語的意思是「為達目的，各自施展本領」？",
+    "options": ["一心二用", "八仙過海", "十全十美", "六神無主"],
+    "answer": 1,
+    "explanation": "八仙過海：比喻為達目的，各自施展本領。"
+  },
+  {
+    "id": 9,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "下列哪一個成語的意思是「一句話抵得上九鼎重」？",
+    "options": ["學富五車", "一言九鼎", "四面楚歌", "三人成虎"],
+    "answer": 1,
+    "explanation": "一言九鼎：形容說話很有分量或形容說話很有信用。"
+  },
+  {
+    "id": 10,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "下列哪一個成語的意思是「圓滿美好毫無缺陷的境界」？",
+    "options": ["十全十美", "九牛二虎之力", "七手八腳", "三人成虎"],
+    "answer": 0,
+    "explanation": "十全十美：比喻圓滿美好毫無缺陷的境界。"
+  },
+  {
+    "id": 11,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "當你同時在做功課和看電視時，老師說你「一心二用」，這是指什麼？",
+    "options": ["心思專注", "分心不專注", "力量巨大", "學問淵博"],
+    "answer": 1,
+    "explanation": "一心二用：指心思同時放在二件事情上，分心不專注。"
+  },
+  {
+    "id": 12,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "當你在比賽中使出全力時，可以形容為？",
+    "options": ["一言九鼎", "九牛二虎之力", "七手八腳", "四面楚歌"],
+    "answer": 1,
+    "explanation": "九牛二虎之力：形容使出極大的力量。"
+  },
+  {
+    "id": 13,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "當你聽到有人散布不實的謠言時，可以說這是什麼？",
+    "options": ["三人成虎", "六神無主", "一心二用", "十全十美"],
+    "answer": 0,
+    "explanation": "三人成虎：比喻謠言惑眾，人多即成事實。"
+  },
+  {
+    "id": 14,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "當你在困境中感到無助時，可以用哪一個成語形容你的處境？",
+    "options": ["四面楚歌", "八仙過海", "九牛二虎之力", "一言九鼎"],
+    "answer": 0,
+    "explanation": "四面楚歌：比喻所處環境艱難困頓，危急無援。"
+  },
+  {
+    "id": 15,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "當你的朋友在考試中表現非常優秀時，可以形容他為？",
+    "options": ["七手八腳", "學富五車", "六神無主", "三人成虎"],
+    "answer": 1,
+    "explanation": "學富五車：形容人書讀很多，學問淵博。"
+  },
+  {
+    "id": 16,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "當你在面對壓力時感到非常緊張，可以用哪一個成語來形容？",
+    "options": ["六神無主", "一心二用", "九牛二虎之力", "十全十美"],
+    "answer": 0,
+    "explanation": "六神無主：形容心神慌亂、張皇失措。"
+  },
+  {
+    "id": 17,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "當你看到一群人忙碌且動作紛亂時，可以用哪一個成語來形容？",
+    "options": ["三人成虎", "七手八腳", "四面楚歌", "一言九鼎"],
+    "answer": 1,
+    "explanation": "七手八腳：形容人多動作紛亂又沒條理。"
+  },
+  {
+    "id": 18,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "當你想要形容八位仙人各自施展本領時，可以用哪一個成語？",
+    "options": ["一心二用", "八仙過海", "十全十美", "學富五車"],
+    "answer": 1,
+    "explanation": "八仙過海：比喻為達目的，各自施展本領。"
+  },
+  {
+    "id": 19,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "當你發表的意見非常有分量時，可以用哪一個成語來形容？",
+    "options": ["一言九鼎", "九牛二虎之力", "六神無主", "四面楚歌"],
+    "answer": 0,
+    "explanation": "一言九鼎：形容說話很有分量或信用。"
+  },
+  {
+    "id": 20,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "當你完成了一個完美的作品時，可以用哪一個成語來形容？",
+    "options": ["十全十美", "三人成虎", "七手八腳", "八仙過海"],
+    "answer": 0,
+    "explanation": "十全十美：比喻圓滿美好毫無缺陷的境界。"
+  },
+  {
+    "id": 21,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「□」仙過海，下列哪個選項適合填入「□」中？",
+    "options": ["五", "六", "七", "八"],
+    "answer": 3,
+    "explanation": "八仙過海：比喻為達目的，各自施展本領。"
+  },
+  {
+    "id": 22,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「□」人成虎，下列哪個選項適合填入「□」中？",
+    "options": ["一", "三", "五", "七"],
+    "answer": 1,
+    "explanation": "三人成虎：比喻謠言惑眾。"
+  },
+  {
+    "id": 23,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "九牛「□」虎之力，下列哪個選項適合填入「□」中？",
+    "options": ["二", "四", "六", "八"],
+    "answer": 0,
+    "explanation": "九牛二虎之力：比喻極大的力量。"
+  },
+  {
+    "id": 24,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「□」全十美，下列哪個選項適合填入「□」中？",
+    "options": ["一", "五", "八", "十"],
+    "answer": 3,
+    "explanation": "十全十美：比喻圓滿美好毫無缺陷的境界。"
+  },
+  {
+    "id": 25,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "一言「□」鼎，下列哪個選項適合填入「□」中？",
+    "options": ["十", "九", "八", "七"],
+    "answer": 1,
+    "explanation": "一言九鼎：形容說話很有分量或很有信用。"
+  },
+  {
+    "id": 26,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「□」神無主，下列哪個選項適合填入「□」中？",
+    "options": ["五", "六", "七", "八"],
+    "answer": 1,
+    "explanation": "六神無主：形容心神慌亂、張皇失措。"
+  },
+  {
+    "id": 27,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「□」手八腳，下列哪個選項適合填入「□」中？",
+    "options": ["五", "六", "七", "八"],
+    "answer": 2,
+    "explanation": "七手八腳：形容人多動作紛亂又沒條理。"
+  },
+  {
+    "id": 28,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「□」面楚歌，下列哪個選項適合填入「□」中？",
+    "options": ["一", "二", "三", "四"],
+    "answer": 3,
+    "explanation": "四面楚歌：比喻所處環境艱難困頓，危急無援。"
+  },
+  {
+    "id": 29,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「□」心二用，下列哪個選項適合填入「□」中？",
+    "options": ["一", "二", "三", "四"],
+    "answer": 0,
+    "explanation": "一心二用：心思同時放在二件事情上，指分心不專注。"
+  },
+  {
+    "id": 30,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "學富「□」車，下列哪個選項適合填入「□」中？",
+    "options": ["三", "四", "五", "六"],
+    "answer": 2,
+    "explanation": "學富五車：形容人書讀很多，學問淵博。"
+  },
+  {
+    "id": 31,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "設計比賽競爭激烈，參賽者各個絞盡腦汁，力求良好成績，真所謂『【　】，各顯神通』。",
+    "options": ["一心二用", "九牛二虎", "三人成虎", "八仙過海"],
+    "answer": 3,
+    "explanation": "八仙過海：比喻為達目的，各自施展本領。"
+  },
+  {
+    "id": 32,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "讀書是一輩子的事情，即使是【　】的學者，仍要不斷充實新知。",
+    "options": ["四面楚歌", "六神無主", "七手八腳", "學富五車"],
+    "answer": 3,
+    "explanation": "學富五車：形容人學問淵博。"
+  },
+  {
+    "id": 33,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "他費了【　】之力，總算把這顆大蘿蔔從田裡拔了起來。",
+    "options": ["一心二用", "九牛二虎", "三人成虎", "十全十美"],
+    "answer": 1,
+    "explanation": "九牛二虎之力：比喻極大的力量。"
+  },
+  {
+    "id": 34,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "邊看電視邊讀書，如此【　】，功課怎麼會好呢？",
+    "options": ["一心二用", "七手八腳", "八仙過海", "一言九鼎"],
+    "answer": 0,
+    "explanation": "一心二用：指分心不專注。"
+  },
+  {
+    "id": 35,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "媽媽突然病倒，爸爸又不在家，我們三個兄弟簡直【　】。",
+    "options": ["四面楚歌", "六神無主", "學富五車", "三人成虎"],
+    "answer": 1,
+    "explanation": "六神無主：形容心神慌亂。"
+  },
+  {
+    "id": 36,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "所謂情人眼裡出西施，在爸爸的眼裡，媽媽是個【　】的女性。",
+    "options": ["一心二用", "九牛二虎", "十全十美", "八仙過海"],
+    "answer": 2,
+    "explanation": "十全十美：圓滿美好毫無缺陷。"
+  },
+  {
+    "id": 37,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "當警察包圍這座大樓後，裡面的搶匪已經【　】，無路可逃了。",
+    "options": ["六神無主", "七手八腳", "學富五車", "四面楚歌"],
+    "answer": 3,
+    "explanation": "四面楚歌：比喻環境艱難困頓，危急無援。"
+  },
+  {
+    "id": 38,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "這個小偷力氣真大，大伙兒【　】，花了好大的勁兒才把他綁住。",
+    "options": ["三人成虎", "四面楚歌", "七手八腳", "一言九鼎"],
+    "answer": 2,
+    "explanation": "七手八腳：形容動作紛亂。"
+  },
+  {
+    "id": 39,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「曾參殺人」的故事證明【　】的可怕。",
+    "options": ["一心二用", "九牛二虎", "三人成虎", "十全十美"],
+    "answer": 2,
+    "explanation": "三人成虎：比喻謠言惑眾。"
+  },
+  {
+    "id": 40,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "我盼他說話【　】，不要變來變去。",
+    "options": ["六神無主", "七手八腳", "八仙過海", "一言九鼎"],
+    "answer": 3,
+    "explanation": "一言九鼎：形容說話有信用。"
+  },
+  {
+    "id": 41,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "下列哪一個成語的意思是「比喻為達目的，各自施展本領」？",
+    "options": ["八仙過海", "一心二用", "七手八腳", "十全十美"],
+    "answer": 0,
+    "explanation": "八仙過海：各自施展本領。"
+  },
+  {
+    "id": 42,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "下列哪一個成語的意思是「指心思同時放在二件事情上。指分心不專注」？",
+    "options": ["一心二用", "三人成虎", "四面楚歌", "九牛二虎之力"],
+    "answer": 0,
+    "explanation": "一心二用：分心不專注。"
+  },
+  {
+    "id": 43,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "下列哪一個成語的意思是「形容人多動作紛亂又沒條理」？",
+    "options": ["六神無主", "學富五車", "七手八腳", "一言九鼎"],
+    "answer": 2,
+    "explanation": "七手八腳：動作紛亂。"
+  },
+  {
+    "id": 44,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "下列哪一個成語的意思是「比喻圓滿美好毫無缺陷的境界」？",
+    "options": ["三人成虎", "四面楚歌", "九牛二虎之力", "十全十美"],
+    "answer": 3,
+    "explanation": "十全十美：圓滿美好。"
+  },
+  {
+    "id": 45,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "下列哪一個成語的意思是「比喻謠言惑眾」？",
+    "options": ["一心二用", "三人成虎", "七手八腳", "八仙過海"],
+    "answer": 1,
+    "explanation": "三人成虎：謠言惑眾。"
+  },
+  {
+    "id": 46,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "下列哪一個成語的意思是「比喻所處環境艱難困頓，危急無援」？",
+    "options": ["六神無主", "學富五車", "一言九鼎", "四面楚歌"],
+    "answer": 3,
+    "explanation": "四面楚歌：環境艱難困頓。"
+  },
+  {
+    "id": 47,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "下列哪一個成語的意思是「比喻極大的力量」？",
+    "options": ["一心二用", "九牛二虎之力", "十全十美", "三人成虎"],
+    "answer": 1,
+    "explanation": "九牛二虎之力：極大的力量。"
+  },
+  {
+    "id": 48,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "下列哪一個成語的意思是「形容說話很有分量或形容說話很有信用」？",
+    "options": ["四面楚歌", "七手八腳", "八仙過海", "一言九鼎"],
+    "answer": 3,
+    "explanation": "一言九鼎：說話有信用。"
+  },
+  {
+    "id": 49,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "下列哪一個成語的意思是「形容心神慌亂、張皇失措，拿不定主意」？",
+    "options": ["六神無主", "學富五車", "九牛二虎之力", "三人成虎"],
+    "answer": 0,
+    "explanation": "六神無主：心神慌亂。"
+  },
+  {
+    "id": 50,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "下列哪一個成語的意思是「形容人書讀很多，學問淵博」？",
+    "options": ["一心二用", "三人成虎", "四面楚歌", "學富五車"],
+    "answer": 3,
+    "explanation": "學富五車：學問淵博。"
+  },
+  {
+    "id": 1,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "下列哪一個成語的意思是「做事不畏艱難，堅韌不拔，有頑強的毅力」？",
+    "options": ["瞎子摸象", "愚公移山", "塞翁失馬", "孟母三遷"],
+    "answer": 1,
+    "explanation": "愚公移山：比喻做事不畏艱難，堅韌不拔，有頑強的毅力。"
+  },
+  {
+    "id": 2,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "下列哪一個成語的意思是「對事物只憑片面的瞭解或局部的經驗，亂加猜測」？",
+    "options": ["瞎子摸象", "愚公移山", "塞翁失馬", "葉公好龍"],
+    "answer": 0,
+    "explanation": "瞎子摸象：比喻只憑片面了解或局部經驗便妄下判斷。"
+  },
+  {
+    "id": 3,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "下列哪一個成語的意思是「比喻母親注重孩子的教育，因此擇鄰而居」？",
+    "options": ["瞎子摸象", "孟母三遷", "塞翁失馬", "葉公好龍"],
+    "answer": 1,
+    "explanation": "孟母三遷：比喻重視教育、擇鄰而居。"
+  },
+  {
+    "id": 4,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "下列哪一個成語的意思是「口頭上說愛好某事物，實際上並不真愛好」？",
+    "options": ["塞翁失馬", "葉公好龍", "愚公移山", "瞎子摸象"],
+    "answer": 1,
+    "explanation": "葉公好龍：比喻表裡不一，口頭喜好但實際並不真喜歡。"
+  },
+  {
+    "id": 5,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "下列哪一個成語的意思是「一時雖然受到損失，也許反而因此能得到好處」？",
+    "options": ["塞翁失馬", "孟母三遷", "瞎子摸象", "愚公移山"],
+    "answer": 0,
+    "explanation": "塞翁失馬：比喻一時受損，也可能因此得到好處。"
+  },
+  {
+    "id": 6,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "下列哪一個成語的意思是「比喻以一點代替全面，用主觀臆測做出判斷」？",
+    "options": ["瞎子摸象", "葉公好龍", "孟母三遷", "塞翁失馬"],
+    "answer": 0,
+    "explanation": "瞎子摸象：以一點代替全面，妄下判斷。"
+  },
+  {
+    "id": 7,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "下列哪一個成語的意思是「比喻環境能影響一個人的教育」？",
+    "options": ["愚公移山", "孟母三遷", "瞎子摸象", "塞翁失馬"],
+    "answer": 1,
+    "explanation": "孟母三遷：環境能影響教育，擇鄰而居。"
+  },
+  {
+    "id": 8,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "下列哪一個成語的意思是「表裡不一，似是而非的假象」？",
+    "options": ["葉公好龍", "瞎子摸象", "愚公移山", "塞翁失馬"],
+    "answer": 0,
+    "explanation": "葉公好龍：比喻表裡不一的假象。"
+  },
+  {
+    "id": 9,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "下列哪一個成語的意思是「因為不知其實而臆測」？",
+    "options": ["愚公移山", "瞎子摸象", "孟母三遷", "葉公好龍"],
+    "answer": 1,
+    "explanation": "瞎子摸象：不知其實而妄下判斷。"
+  },
+  {
+    "id": 10,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "下列哪一個成語的意思是「比喻做事不怕困難，堅持到底」？",
+    "options": ["愚公移山", "塞翁失馬", "瞎子摸象", "葉公好龍"],
+    "answer": 0,
+    "explanation": "愚公移山：做事不怕困難，堅持到底。"
+  },
+  {
+    "id": 11,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "當一個人對某個問題只了解一部分，卻自信滿滿地發表意見時，可以說他在做什麼？",
+    "options": ["愚公移山", "瞎子摸象", "塞翁失馬", "孟母三遷"],
+    "answer": 1,
+    "explanation": "瞎子摸象：只憑片面了解便妄下判斷。"
+  },
+  {
+    "id": 12,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "當一位母親為了孩子的教育而不斷搬家時，可以用哪一個成語來形容？",
+    "options": ["孟母三遷", "塞翁失馬", "瞎子摸象", "葉公好龍"],
+    "answer": 0,
+    "explanation": "孟母三遷：重視教育，擇鄰而居。"
+  },
+  {
+    "id": 13,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "當一個人喜歡用龍的裝飾，但真正見到龍卻嚇得不行時，可以用哪一個成語來形容？",
+    "options": ["葉公好龍", "愚公移山", "塞翁失馬", "瞎子摸象"],
+    "answer": 0,
+    "explanation": "葉公好龍：口頭喜好，實際並不真喜歡。"
+  },
+  {
+    "id": 14,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "當你在遇到困難時，卻仍然堅持不懈地努力時，可以用哪一個成語來形容？",
+    "options": ["瞎子摸象", "愚公移山", "塞翁失馬", "孟母三遷"],
+    "answer": 1,
+    "explanation": "愚公移山：不畏艱難，堅韌不拔。"
+  },
+  {
+    "id": 15,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "當一個人在失去一些東西後，卻因此獲得了更好的機會時，可以用哪一個成語來形容？",
+    "options": ["塞翁失馬", "葉公好龍", "瞎子摸象", "孟母三遷"],
+    "answer": 0,
+    "explanation": "塞翁失馬：因禍得福，壞事變好事。"
+  },
+  {
+    "id": 16,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "當你看到一個人只用片面的觀點來做出判斷時，可以說他在做什麼？",
+    "options": ["瞎子摸象", "愚公移山", "塞翁失馬", "葉公好龍"],
+    "answer": 0,
+    "explanation": "瞎子摸象：以偏概全，妄下判斷。"
+  },
+  {
+    "id": 17,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "當你在教育孩子時，特別注重環境的選擇，可以用哪一個成語來形容？",
+    "options": ["孟母三遷", "塞翁失馬", "瞎子摸象", "葉公好龍"],
+    "answer": 0,
+    "explanation": "孟母三遷：重視環境對教育的影響。"
+  },
+  {
+    "id": 18,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "當一個人喜歡某物，但實際上並不深入了解時，可以用哪一個成語來形容？",
+    "options": ["塞翁失馬", "葉公好龍", "瞎子摸象", "愚公移山"],
+    "answer": 1,
+    "explanation": "葉公好龍：表裡不一，似是而非。"
+  },
+  {
+    "id": 19,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "當你在生活中遇到困難時，卻仍然能夠堅持下去，可以用哪一個成語來形容？",
+    "options": ["愚公移山", "塞翁失馬", "瞎子摸象", "葉公好龍"],
+    "answer": 0,
+    "explanation": "愚公移山：有毅力，堅持到底。"
+  },
+  {
+    "id": 20,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "當你聽到某人因為失去而得到更好的結果時，可以用哪一個成語來形容？",
+    "options": ["塞翁失馬", "瞎子摸象", "葉公好龍", "愚公移山"],
+    "answer": 0,
+    "explanation": "塞翁失馬：禍福相生，因禍得福。"
+  },
+  {
+    "id": 21,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "下列哪一個成語的來源與「古代愚公挖山」有關？",
+    "options": ["愚公移山", "瞎子摸象", "孟母三遷", "葉公好龍"],
+    "answer": 0,
+    "explanation": "愚公移山：典故為愚公決心移山，終感動天帝。"
+  },
+  {
+    "id": 22,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "下列哪一個成語的來源與「葉公見龍卻驚恐」有關？",
+    "options": ["塞翁失馬", "葉公好龍", "瞎子摸象", "愚公移山"],
+    "answer": 1,
+    "explanation": "葉公好龍：典故為葉公喜龍，真龍現身卻被嚇倒。"
+  },
+  {
+    "id": 23,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "下列哪一個成語的來源與「孟母三次遷居」有關？",
+    "options": ["孟母三遷", "塞翁失馬", "瞎子摸象", "葉公好龍"],
+    "answer": 0,
+    "explanation": "孟母三遷：典故為孟母為教育三次遷居。"
+  },
+  {
+    "id": 24,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "下列哪一個成語的來源與「一時的損失可能帶來長遠的好處」有關？",
+    "options": ["愚公移山", "塞翁失馬", "瞎子摸象", "孟母三遷"],
+    "answer": 1,
+    "explanation": "塞翁失馬：典故為塞翁失馬，焉知非福。"
+  },
+  {
+    "id": 25,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "下列哪一個成語的來源與「片面的瞭解導致錯誤判斷」有關？",
+    "options": ["瞎子摸象", "葉公好龍", "愚公移山", "孟母三遷"],
+    "answer": 0,
+    "explanation": "瞎子摸象：典故為瞎子摸象，各執一詞。"
+  },
+  {
+    "id": 26,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "下列哪一個成語用來比喻「做事不畏艱難，堅韌不拔」？",
+    "options": ["愚公移山", "瞎子摸象", "塞翁失馬", "葉公好龍"],
+    "answer": 0,
+    "explanation": "愚公移山：比喻有頑強毅力。"
+  },
+  {
+    "id": 27,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "下列哪一個成語用來比喻「一時的損失可能帶來長遠的好處」？",
+    "options": ["瞎子摸象", "葉公好龍", "塞翁失馬", "孟母三遷"],
+    "answer": 2,
+    "explanation": "塞翁失馬：比喻因禍得福。"
+  },
+  {
+    "id": 28,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "下列哪一個成語用來比喻「以片面的觀察來做出錯誤的判斷」？",
+    "options": ["瞎子摸象", "愚公移山", "塞翁失馬", "葉公好龍"],
+    "answer": 0,
+    "explanation": "瞎子摸象：比喻以偏概全。"
+  },
+  {
+    "id": 29,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "下列哪一個成語用來比喻「表裡不一，似是而非的假象」？",
+    "options": ["愚公移山", "葉公好龍", "塞翁失馬", "孟母三遷"],
+    "answer": 1,
+    "explanation": "葉公好龍：比喻表裡不一。"
+  },
+  {
+    "id": 30,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "下列哪一個成語用來比喻「母親為了孩子的教育而不斷搬家」？",
+    "options": ["孟母三遷", "瞎子摸象", "塞翁失馬", "葉公好龍"],
+    "answer": 0,
+    "explanation": "孟母三遷：重視環境對教育的影響。"
+  },
+  {
+    "id": 31,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「比喻一時雖然受到損失，也許反而因此能得到好處。」可用下列哪一個成語？",
+    "options": ["愚公移山", "瞎子摸象", "孟母三遷", "塞翁失馬"],
+    "answer": 3,
+    "explanation": "塞翁失馬：比喻一時受損，也可能因此得到好處。"
+  },
+  {
+    "id": 32,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「比喻母親注重孩子的教育，因此擇鄰而居。」可用下列哪一個成語？",
+    "options": ["愚公移山", "瞎子摸象", "孟母三遷", "葉公好龍"],
+    "answer": 2,
+    "explanation": "孟母三遷：比喻重視教育、擇鄰而居。"
+  },
+  {
+    "id": 33,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「比喻口頭上說愛好某事物，實際上並不真愛好。」可用下列哪一個成語？",
+    "options": ["瞎子摸象", "孟母三遷", "塞翁失馬", "葉公好龍"],
+    "answer": 3,
+    "explanation": "葉公好龍：比喻表裡不一，口頭喜好但實際並不真喜歡。"
+  },
+  {
+    "id": 34,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「比喻做事不畏艱難，堅韌不拔，有頑強的毅力。」可用下列哪一個成語？",
+    "options": ["愚公移山", "瞎子摸象", "孟母三遷", "葉公好龍"],
+    "answer": 0,
+    "explanation": "愚公移山：比喻做事不畏艱難，堅韌不拔。"
+  },
+  {
+    "id": 35,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「比喻以一點代替全面，用主觀臆測做出判斷。」可用下列哪一個成語？",
+    "options": ["愚公移山", "瞎子摸象", "葉公好龍", "塞翁失馬"],
+    "answer": 1,
+    "explanation": "瞎子摸象：以一點代替全面，妄下判斷。"
+  },
+  {
+    "id": 36,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "他一再堅持自己以偏概全的想法，這種行為就好比下列哪一個成語，是得不到真知的？",
+    "options": ["愚公移山", "瞎子摸象", "孟母三遷", "葉公好龍"],
+    "answer": 1,
+    "explanation": "瞎子摸象：比喻只憑片面了解便妄下判斷。"
+  },
+  {
+    "id": 37,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "他常常說自己喜歡欣賞名畫，但是約他去看畫展時又不去，根本就是下列哪一個成語？",
+    "options": ["愚公移山", "瞎子摸象", "塞翁失馬", "葉公好龍"],
+    "answer": 3,
+    "explanation": "葉公好龍：口頭喜好，實際並不真喜歡。"
+  },
+  {
+    "id": 38,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "你這次找不到客戶，也許是下列哪一個成語，說不定後頭有一樁大生意在等著你呢？",
+    "options": ["愚公移山", "瞎子摸象", "孟母三遷", "塞翁失馬"],
+    "answer": 3,
+    "explanation": "塞翁失馬：因禍得福，壞事變好事。"
+  },
+  {
+    "id": 39,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "劉太太為了兒子的學業，努力地為他尋找好學校，真是有下列哪一個成語的精神？",
+    "options": ["愚公移山", "瞎子摸象", "孟母三遷", "葉公好龍"],
+    "answer": 2,
+    "explanation": "孟母三遷：重視環境對教育的影響。"
+  },
+  {
+    "id": 40,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "我們要發揚下列哪一個成語的精神，再大的困難也要克服？",
+    "options": ["愚公移山", "瞎子摸象", "孟母三遷", "葉公好龍"],
+    "answer": 0,
+    "explanation": "愚公移山：做事不怕困難，堅持到底。"
+  },
+  {
+    "id": 41,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "與「以偏概全」意思相似的成語是下列哪一個？",
+    "options": ["愚公移山", "瞎子摸象", "孟母三遷", "葉公好龍"],
+    "answer": 1,
+    "explanation": "瞎子摸象：以偏概全，妄下判斷。"
+  },
+  {
+    "id": 42,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "與「因禍得福」意思相似的成語是下列哪一個？",
+    "options": ["愚公移山", "瞎子摸象", "孟母三遷", "塞翁失馬"],
+    "answer": 3,
+    "explanation": "塞翁失馬：禍福相生，因禍得福。"
+  },
+  {
+    "id": 43,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "與「孟母擇鄰」意思相似的成語是下列哪一個？",
+    "options": ["愚公移山", "瞎子摸象", "孟母三遷", "葉公好龍"],
+    "answer": 2,
+    "explanation": "孟母三遷：重視教育，擇鄰而居。"
+  },
+  {
+    "id": 44,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "與「鐵杵磨針」意思相似的成語是下列哪一個？",
+    "options": ["愚公移山", "瞎子摸象", "孟母三遷", "塞翁失馬"],
+    "answer": 0,
+    "explanation": "愚公移山：不畏艱難，堅韌不拔。"
+  },
+  {
+    "id": 45,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "與「表裡不一」意思相似的成語是下列哪一個？",
+    "options": ["愚公移山", "瞎子摸象", "孟母三遷", "葉公好龍"],
+    "answer": 3,
+    "explanation": "葉公好龍：比喻表裡不一。"
+  },
+  {
+    "id": 46,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "與「名實相符」意思相反的成語是下列哪一個？",
+    "options": ["愚公移山", "瞎子摸象", "孟母三遷", "葉公好龍"],
+    "answer": 3,
+    "explanation": "葉公好龍：比喻表裡不一，名實不符。"
+  },
+  {
+    "id": 47,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "與「樂極生悲」意思相反的成語是下列哪一個？",
+    "options": ["愚公移山", "瞎子摸象", "孟母三遷", "塞翁失馬"],
+    "answer": 3,
+    "explanation": "塞翁失馬：壞事在一定條件下可變好事。"
+  },
+  {
+    "id": 48,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "與「洞見全貌」意思相反的成語是下列哪一個？",
+    "options": ["愚公移山", "瞎子摸象", "孟母三遷", "葉公好龍"],
+    "answer": 1,
+    "explanation": "瞎子摸象：只憑片面了解，缺乏全貌。"
+  },
+  {
+    "id": 49,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "與「半途而廢」意思相反的成語是下列哪一個？",
+    "options": ["愚公移山", "瞎子摸象", "孟母三遷", "塞翁失馬"],
+    "answer": 0,
+    "explanation": "愚公移山：做事不怕困難，堅持到底。"
+  },
+  {
+    "id": 1,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "下列哪一個成語的意思是「比喻有經驗的人對情況比較熟悉，容易把工作做好」？",
+    "options": ["老生常談", "老馬識途", "數一數二", "錙銖必較"],
+    "answer": 1,
+    "explanation": "老馬識途：比喻有經驗的人對情況比較熟悉，容易把工作做好。"
+  },
+  {
+    "id": 2,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "下列哪一個成語的意思是「比喻時常聽到，了無新意的老話」？",
+    "options": ["老生常談", "數一數二", "童叟無欺", "垂涎三尺"],
+    "answer": 0,
+    "explanation": "老生常談：比喻時常聽到，了無新意的老話。"
+  },
+  {
+    "id": 3,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "下列哪一個成語的意思是「排名在前，被認為是第一或最好之一」？",
+    "options": ["老馬識途", "數一數二", "錙銖必較", "行雲流水"],
+    "answer": 1,
+    "explanation": "數一數二：排名在前，被認為是第一或第二好。"
+  },
+  {
+    "id": 4,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "下列哪一個成語的意思是用在形容「吝嗇愛財」或「對很小的事十分計較」？",
+    "options": ["錙銖必較", "童叟無欺", "滿腹經綸", "碩大無朋"],
+    "answer": 0,
+    "explanation": "錙銖必較：用在吝嗇愛財或心胸狹窄，對小事十分計較。"
+  },
+  {
+    "id": 5,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "下列哪一個成語的意思是「從幼童到老人都不欺騙」？",
+    "options": ["垂涎三尺", "童叟無欺", "行雲流水", "小時了了"],
+    "answer": 1,
+    "explanation": "童叟無欺：從幼童到老人都不欺騙。"
+  },
+  {
+    "id": 6,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "下列哪一個成語的意思是用在形容「貪吃嘴饞」或「看見別人的東西極想據為己有」？",
+    "options": ["垂涎三尺", "行雲流水", "小時了了", "碩大無朋"],
+    "answer": 0,
+    "explanation": "垂涎三尺：形容非常貪饞或渴望擁有別人的東西。"
+  },
+  {
+    "id": 7,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "下列哪一個成語的意思是「形容待人處事或文章字畫飄逸自然，無拘無束」？",
+    "options": ["滿腹經綸", "行雲流水", "老生常談", "數一數二"],
+    "answer": 1,
+    "explanation": "行雲流水：形容待人處事或文章字畫飄逸自然，無拘無束。"
+  },
+  {
+    "id": 8,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "下列哪一個成語的意思是指「人在幼年時聰慧敏捷，但暗指長大後未必能成大器」？",
+    "options": ["小時了了", "老馬識途", "童叟無欺", "錙銖必較"],
+    "answer": 0,
+    "explanation": "小時了了：指人在幼年時聰慧敏捷，譏諷長大後未必能成大器。"
+  },
+  {
+    "id": 9,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "下列哪一個成語的意思是用以形容「物品大到無可比擬」？",
+    "options": ["滿腹經綸", "碩大無朋", "垂涎三尺", "行雲流水"],
+    "answer": 1,
+    "explanation": "碩大無朋：形容物品大到無可比擬。"
+  },
+  {
+    "id": 10,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "下列哪一個成語的意思是「形容才識豐富，具有處理大事的才能」？",
+    "options": ["滿腹經綸", "老生常談", "數一數二", "錙銖必較"],
+    "answer": 0,
+    "explanation": "滿腹經綸：形容才識豐富，具有處理大事的才能。"
+  },
+  {
+    "id": 11,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "當一位經驗豐富的老嚮導帶領大家安全穿過森林時，可以用哪一個成語來形容他？",
+    "options": ["老生常談", "老馬識途", "數一數二", "錙銖必較"],
+    "answer": 1,
+    "explanation": "老馬識途：比喻有經驗的人對情況比較熟悉。"
+  },
+  {
+    "id": 12,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "當聽到別人不斷重複那些了無新意的老話時，可以用哪一個成語來形容？",
+    "options": ["老生常談", "童叟無欺", "垂涎三尺", "行雲流水"],
+    "answer": 0,
+    "explanation": "老生常談：比喻時常聽到，了無新意的老話。"
+  },
+  {
+    "id": 13,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "當稱讚某人在某個領域的表現是最好或排名第一時，應該使用哪一個成語？",
+    "options": ["碩大無朋", "數一數二", "滿腹經綸", "小時了了"],
+    "answer": 1,
+    "explanation": "數一數二：排名在前，被認為是第一或最好之一。"
+  },
+  {
+    "id": 14,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "當形容一間公司連員工請個病假的小錢也要嚴格扣除、計較時，可以用哪一個成語？",
+    "options": ["錙銖必較", "行雲流水", "童叟無欺", "老馬識途"],
+    "answer": 0,
+    "explanation": "錙銖必較：用在吝嗇愛財，計較小錢。"
+  },
+  {
+    "id": 15,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "當標榜店家貨真價實、絕不欺騙任何年齡層的顧客時，可以用哪一個成語？",
+    "options": ["垂涎三尺", "童叟無欺", "滿腹經綸", "老生常談"],
+    "answer": 1,
+    "explanation": "童叟無欺：從幼童到老人都不欺騙。"
+  },
+  {
+    "id": 16,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "當看到桌上擺滿鮮嫩欲滴的美食，讓人看了非常嘴饞時，可以用哪一個成語形容？",
+    "options": ["垂涎三尺", "數一數二", "小時了了", "碩大無朋"],
+    "answer": 0,
+    "explanation": "垂涎三尺：形容非常貪饞。"
+  },
+  {
+    "id": 17,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "當稱讚某人寫文章的文筆飄逸自然、毫無拘束時，可以用哪一個成語？",
+    "options": ["老生常談", "行雲流水", "錙銖必較", "碩大無朋"],
+    "answer": 1,
+    "explanation": "行雲流水：形容文章字畫飄逸自然，無拘無束。"
+  },
+  {
+    "id": 18,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "當長輩用來警惕年輕人在幼年聰明之餘，長大後仍要腳踏實地努力時，常會提到？",
+    "options": ["小時了了", "滿腹經綸", "老馬識途", "數一數二"],
+    "answer": 0,
+    "explanation": "小時了了：暗指長大後未必能成大器。"
+  },
+  {
+    "id": 19,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "當形容海面上翻騰的浪潮巨大得像個無可比擬的怪物時，可以用哪一個成語？",
+    "options": ["行雲流水", "碩大無朋", "垂涎三尺", "錙銖必較"],
+    "answer": 1,
+    "explanation": "碩大無朋：形容物品大到無可比擬。"
+  },
+  {
+    "id": 20,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "當讚美歷史上的軍師既有豐富才學又足智多謀時，可以用哪一個成語來形容？",
+    "options": ["滿腹經綸", "老馬識途", "數一數二", "童叟無欺"],
+    "answer": 0,
+    "explanation": "滿腹經綸：形容才識豐富，具有處理大事的才能。"
+  },
+  {
+    "id": 21,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "在成語「老馬識途」中，「途」的意思是什麼？",
+    "options": ["土地", "道路", "途中", "遠行"],
+    "answer": 1,
+    "explanation": "途：道路。"
+  },
+  {
+    "id": 22,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "在成語「老生常談」中，「常談」的意思是什麼？",
+    "options": ["平常的言論", "嚴肅的對話", "快樂的談話", "秘密的話題"],
+    "answer": 0,
+    "explanation": "常談：平常的言論。"
+  },
+  {
+    "id": 23,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "在成語「錙銖必較」中，「錙銖」原本是指什麼？",
+    "options": ["大筆金額", "極微小的重量單位", "土地面積", "時間長短"],
+    "answer": 1,
+    "explanation": "錙銖：極微小的重量單位。"
+  },
+  {
+    "id": 24,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "在成語「童叟無欺」中，「叟」指的是什麼人？",
+    "options": ["老人", "小孩", "商人", "顧客"],
+    "answer": 0,
+    "explanation": "叟：老人。"
+  },
+  {
+    "id": 25,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "在成語「滿腹經綸」中，「經綸」原本是指整理清楚的什麼東西，後來引申為人的學識與謀略？",
+    "options": ["棉布", "蠶絲", "書本", "羽毛"],
+    "answer": 1,
+    "explanation": "經綸：整理清楚的蠶絲。"
+  },
+  {
+    "id": 26,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "下列哪一個成語的典故與春秋時期的政治家「管仲」帶領軍隊有關？",
+    "options": ["老馬識途", "小時了了", "滿腹經綸", "數一數二"],
+    "answer": 0,
+    "explanation": "老馬識途：典故與管仲有關。"
+  },
+  {
+    "id": 27,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "下列哪一個成語的典故與東漢時期的才子「孔融」幼年聰慧有關？",
+    "options": ["老生常談", "小時了了", "老馬識途", "童叟無欺"],
+    "answer": 1,
+    "explanation": "小時了了：典故與孔融有關。"
+  },
+  {
+    "id": 28,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "下列哪一個成語用來比喻「有經驗的人對情況比較熟悉，容易把工作做好」？",
+    "options": ["老馬識途", "滿腹經綸", "碩大無朋", "垂涎三尺"],
+    "answer": 0,
+    "explanation": "老馬識途：比喻有經驗的人對情況比較熟悉。"
+  },
+  {
+    "id": 29,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "下列哪一個成語用來比喻「時常聽到，了無新意的老話」？",
+    "options": ["行雲流水", "老生常談", "數一數二", "童叟無欺"],
+    "answer": 1,
+    "explanation": "老生常談：比喻時常聽到，了無新意的老話。"
+  },
+  {
+    "id": 30,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "下列哪一個成語用來比喻「極想把別人的東西據為己有」或形容貪饞？",
+    "options": ["垂涎三尺", "錙銖必較", "小時了了", "老馬識途"],
+    "answer": 0,
+    "explanation": "垂涎三尺：形容非常貪饞或渴望擁有。"
+  },
+  {
+    "id": 1,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "下列成語與其典故中的人名配對，錯誤的是：",
+    "options": ["小時了了／孔融", "鐵杵磨針／孔子", "四面楚歌／項羽", "老馬識途／管仲"],
+    "answer": 1,
+    "explanation": "鐵杵磨針典故主角為李白，非孔子。"
+  },
+  {
+    "id": 2,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "形容一個人裝腔作勢、刻意做作的態度。叫「□揉造作」，缺空的字應填：",
+    "options": ["嬌", "矯", "撟", "轎"],
+    "answer": 1,
+    "explanation": "矯揉造作：形容裝腔作勢、刻意做作的態度。"
+  },
+  {
+    "id": 3,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「他的醫術高明，□□□□，遠近馳名。」缺空處應填：",
+    "options": ["行雲流水", "老當益壯", "十全十美", "卓絕群倫"],
+    "answer": 3,
+    "explanation": "卓絕群倫：形容才能特出，超越眾人。"
+  },
+  {
+    "id": 4,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "下列「 」中的字去掉部首後，何者讀音與原字相同？",
+    "options": ["錙「銖」必較", "眾目「睽」睽", "不得要「領」", "鐵「杵」磨針"],
+    "answer": 0,
+    "explanation": "銖（ㄓㄨ）去掉部首後讀音仍為ㄓㄨ。"
+  },
+  {
+    "id": 5,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "比喻有經驗的人對情況比較熟悉，容易把工作做好。叫「老馬識□」，缺空的字應填：",
+    "options": ["圖", "途", "屠", "徒"],
+    "answer": 1,
+    "explanation": "老馬識途：比喻有經驗的人對情況比較熟悉。"
+  },
+  {
+    "id": 6,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "形容才識豐富，具有處理大事的才能。叫「滿□經綸」，缺空的字應填：",
+    "options": ["復", "複", "腹", "富"],
+    "answer": 2,
+    "explanation": "滿腹經綸：形容才識豐富。"
+  },
+  {
+    "id": 7,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "姐姐說：「最近電視上的綜藝節目看起來□□□□，了無新意。」缺空的成語應填：",
+    "options": ["千變萬化", "千篇一律", "陳腔濫調", "別出心裁"],
+    "answer": 1,
+    "explanation": "千篇一律：形式或內容毫無變化。"
+  },
+  {
+    "id": 8,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「碩大無朋」之於「龐然大物」，就好像「滿腹經綸」之於：",
+    "options": ["不學無術", "不識之無", "才疏學淺", "學富五車"],
+    "answer": 3,
+    "explanation": "兩者皆為近義詞關係。"
+  },
+  {
+    "id": 9,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「在這迷你盆景中，布置了許多□□□□的假山假水，頗饒意趣。」缺空的成語應填：",
+    "options": ["碩大無朋", "行雲流水", "卓絕群倫", "小巧玲瓏"],
+    "answer": 3,
+    "explanation": "小巧玲瓏：形容極細緻精巧。"
+  },
+  {
+    "id": 10,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「雖然大家都很優秀，但你更是□□□□。」缺空的成語應填：",
+    "options": ["出類拔萃", "學富五車", "老馬識途", "千變萬化"],
+    "answer": 0,
+    "explanation": "出類拔萃：形容才能特出，超越眾人。"
+  },
+  {
+    "id": 11,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "垂涎□尺、學富□車、不識□丁。以上成語缺空處的數字和是：",
+    "options": ["十", "八", "九", "十三"],
+    "answer": 2,
+    "explanation": "三+五+一=九。"
+  },
+  {
+    "id": 12,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "形容人未經學習而沒有學問才幹。叫「不學無□」，缺空的字應填：",
+    "options": ["數", "術", "疏", "樹"],
+    "answer": 1,
+    "explanation": "不學無術：人未經學習而沒有學問才幹。"
+  },
+  {
+    "id": 13,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "形容人非常貪饞，叫「垂□三尺」，缺空的字應填：",
+    "options": ["涎", "廷", "延", "唌"],
+    "answer": 0,
+    "explanation": "垂涎三尺：形容非常貪饞。"
+  },
+  {
+    "id": 14,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "下列哪一句成語含有「動物」？",
+    "options": ["行□流水", "錙□必較", "龐然大□", "迷路羔□"],
+    "answer": 3,
+    "explanation": "迷路羔羊，羔羊為動物。"
+  },
+  {
+    "id": 15,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "比喻詩文的組織、構思，別出心裁，獨創新意。叫「自出機□」，缺空的字應填：",
+    "options": ["杼", "抒", "佇", "茅"],
+    "answer": 0,
+    "explanation": "自出機杼：比喻詩文組織獨創新意。"
+  },
+  {
+    "id": 16,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "形容陳腐而缺乏新意的論調。叫「陳腔□調」，缺空的字應填：",
+    "options": ["瀾", "爁", "濫", "爛"],
+    "answer": 2,
+    "explanation": "陳腔濫調：陳腐而缺乏新意的論調。"
+  },
+  {
+    "id": 17,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "有句話說：「老就是寶」，下列那個成語正印證了這句話？",
+    "options": ["老生常談", "老當益壯", "老馬識途", "老少咸宜"],
+    "answer": 2,
+    "explanation": "老馬識途印證經驗豐富的老人有價值。"
+  },
+  {
+    "id": 18,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "他對於臺灣民俗典故、民間傳說都能□□□□，真不愧為臺灣通。",
+    "options": ["數一數二", "如數家珍", "錙銖必較", "老生常談"],
+    "answer": 1,
+    "explanation": "如數家珍：形容對事物非常熟悉。"
+  },
+  {
+    "id": 19,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "老李收到了一塊題有「童叟無欺」的匾額，請問老李應該開了什麼樣的店？",
+    "options": ["雜貨店", "診所", "餐廳", "補習班"],
+    "answer": 0,
+    "explanation": "童叟無欺常用於商店經營。"
+  },
+  {
+    "id": 20,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "下列「 」中的字音，何者正確？",
+    "options": ["童「叟」無欺：ㄙㄡ", "「錙」銖必較：ㄗ", "出類拔「萃」：ㄗㄨㄟˋ", "「碩」大無朋：ㄕˊ"],
+    "answer": 1,
+    "explanation": "錙讀作ㄗ。"
+  },
+  {
+    "id": 21,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「進入森林後，他□□□□般地帶著我們穿梭在羊腸小徑之中」缺空的成語應填：",
+    "options": ["千篇一律", "碩大無朋", "如數家珍", "老馬識途"],
+    "answer": 3,
+    "explanation": "老馬識途：比喻有經驗的人對情況熟悉。"
+  },
+  {
+    "id": 22,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「社會上的不良少年，就像是□□□□，需要指引」缺空的成語應填：",
+    "options": ["迷路羔羊", "碩大無朋", "別出心裁", "老生常談"],
+    "answer": 0,
+    "explanation": "迷路羔羊：比喻偏離正途的青少年。"
+  },
+  {
+    "id": 23,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「他的演講內容乏善可陳，儘是些令人生膩的□□□□。」缺空的成語應填：",
+    "options": ["學富五車", "慷慨解囊", "老生常談", "胸無點墨"],
+    "answer": 2,
+    "explanation": "老生常談：了無新意的老話。"
+  },
+  {
+    "id": 24,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「他的文章□□□□，風格特異，讓人愛不釋手。」缺空的成語應填：",
+    "options": ["千篇一律", "如數家珍", "斤斤計較", "自出機杼"],
+    "answer": 3,
+    "explanation": "自出機杼：比喻別出心裁，獨創新意。"
+  },
+  {
+    "id": 25,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「鄧麗君在中國是□□□□的女歌星，她甜美柔婉的歌聲深受國人喜愛。」缺空的成語應填：",
+    "options": ["數一數二", "千篇一律", "童叟無欺", "斤斤計較"],
+    "answer": 0,
+    "explanation": "數一數二：排名在前，最好的之一。"
+  },
+  {
+    "id": 26,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「這支電視廣告的製作的確□□□□，十分引人注目。」缺空的成語應填：",
+    "options": ["慷慨解囊", "行雲流水", "別出心裁", "滿腹經綸"],
+    "answer": 2,
+    "explanation": "別出心裁：獨出巧思，不同流俗。"
+  },
+  {
+    "id": 27,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「這間公司對職員的薪水□□□□，請個病假也要扣錢。」缺空的成語應填：",
+    "options": ["學富五車", "錙銖必較", "數一數二", "千篇一律"],
+    "answer": 1,
+    "explanation": "錙銖必較：計較小錢。"
+  },
+  {
+    "id": 28,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「她犯的是無心之過，你何必□□□□呢？」缺空的成語應填：",
+    "options": ["斤斤計較", "老生常談", "童叟無欺", "出類拔萃"],
+    "answer": 0,
+    "explanation": "斤斤計較：比喻在意於得失或瑣細事物。"
+  },
+  {
+    "id": 29,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「班上同學得知他家中遭遇的變故，紛紛□□□□，施以援手。」缺空的成語應填：",
+    "options": ["學富五車", "滿腹經綸", "出類拔萃", "慷慨解囊"],
+    "answer": 3,
+    "explanation": "慷慨解囊：指毫不吝嗇地給予經濟援助。"
+  },
+  {
+    "id": 30,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「這家中藥材店標榜貨真價實、□□□□。」缺空的成語應填：",
+    "options": ["童叟無欺", "錙", "別出心裁", "行雲流水"],
+    "answer": 0,
+    "explanation": "童叟無欺：從幼童到老人都不欺騙。"
+  },
+  {
+    "id": 31,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「看到攤子上擺的櫻桃，鮮嫩欲滴，真讓人□□□□。」缺空的成語應填：",
+    "options": ["童叟無欺", "如數家珍", "垂涎三尺", "出類拔萃"],
+    "answer": 2,
+    "explanation": "垂涎三尺：形容非常貪饞。"
+  },
+  {
+    "id": 32,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「蘇東坡的才思敏捷，寫文章有如□□□□，行於當行，止於當止。」缺空的成語應填：",
+    "options": ["學富五車", "行雲流水", "出類拔萃", "千篇一律"],
+    "answer": 1,
+    "explanation": "行雲流水：形容文章飄逸自然。"
+  },
+  {
+    "id": 33,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「他的演技過分□□□□，令觀眾覺得十分反感。」缺空的成語應填：",
+    "options": ["別出心裁", "矯揉造作", "不學無術", "胸無點墨"],
+    "answer": 1,
+    "explanation": "矯揉造作：形容裝腔作勢。"
+  },
+  {
+    "id": 34,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「他由於不肯腳踏實地的努力，儘管□□□□，長大了卻沒什麼成就。」缺空的成語應填：",
+    "options": ["小時了了", "胸無點墨", "老生常談", "如數家珍"],
+    "answer": 0,
+    "explanation": "小時了了：暗指長大後未必能成大器。"
+  },
+  {
+    "id": 35,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「翻騰的浪潮沖擊礁石，噴出一層一層的白沫，猶如一個□□□□的怪物。」缺空的成語應填：",
+    "options": ["小時了了", "學富五車", "童叟無欺", "碩大無朋"],
+    "answer": 3,
+    "explanation": "碩大無朋：形容體積巨大。"
+  },
+  {
+    "id": 36,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「歷史上像諸葛亮既是□□□□又足智多謀的人，並不多見。」缺空的成語應填：",
+    "options": ["不學無術", "滿腹經綸", "胸無點墨", "千篇一律"],
+    "answer": 1,
+    "explanation": "滿腹經綸：形容才識豐富。"
+  },
+  {
+    "id": 37,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「這個小偷，聽說小時候聰明得很呢，真是□□□□。」缺空的成語應填：",
+    "options": ["碩大無朋", "小時了了", "不學無術", "學富五車"],
+    "answer": 1,
+    "explanation": "小時了了：指幼年聰慧，長大未必佳。"
+  },
+  {
+    "id": 38,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「這種財大氣粗、□□□□的人，最令人生厭。」缺空的成語應填：",
+    "options": ["胸無點墨", "別出心裁", "學富五車", "行雲流水"],
+    "answer": 0,
+    "explanation": "胸無點墨：比喻人毫無學識。"
+  },
+  {
+    "id": 39,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「像他那種狐假虎威、□□□□的人，最讓人瞧不起。」缺空的成語應填：",
+    "options": ["不學無術", "千篇一律", "老生常談", "出類拔萃"],
+    "answer": 0,
+    "explanation": "不學無術：未經學習而沒有學問才幹。"
+  },
+  {
+    "id": 40,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "成語「學富五車」的相似詞是：",
+    "options": ["不學無術", "不識一丁", "行雲流水", "滿腹經綸"],
+    "answer": 3,
+    "explanation": "兩者皆形容學識廣博。"
+  },
+  {
+    "id": 41,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "成語「出類拔萃」的相似詞是：",
+    "options": ["小時了了", "數一數二", "才疏學淺", "如數家珍"],
+    "answer": 1,
+    "explanation": "兩者皆形容才能特出。"
+  },
+  {
+    "id": 42,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "成語「老生常談」的相似詞是：",
+    "options": ["陳腔濫調", "矯揉造作", "碩大無朋", "學富五車"],
+    "answer": 0,
+    "explanation": "兩者皆形容陳腐缺乏新意。"
+  },
+  {
+    "id": 43,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "成語「瞎子摸象」的相似詞是：",
+    "options": ["管中窺豹", "明察秋毫", "向聲背實", "因禍得福"],
+    "answer": 0,
+    "explanation": "兩者皆比喻以偏概全。"
+  },
+  {
+    "id": 44,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "成語「葉公好龍」的相似詞是：",
+    "options": ["樂極生悲", "不識一丁", "表裡不一", "滿腹經綸"],
+    "answer": 2,
+    "explanation": "兩者皆形容表裡不一。"
+  },
+  {
+    "id": 45,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "成語「食指大動」的相似詞是：",
+    "options": ["行雲流水", "垂涎三尺", "滿腹經綸", "別出心裁"],
+    "answer": 1,
+    "explanation": "兩者皆與美食或食慾相關。"
+  },
+  {
+    "id": 46,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "成語「孟母遺風」可用來祝賀人：",
+    "options": ["升職", "遷居", "嫁女兒", "長壽"],
+    "answer": 1,
+    "explanation": "孟母遺風意指重視擇鄰而居，常用於遷居祝賀。"
+  }
+]
+
